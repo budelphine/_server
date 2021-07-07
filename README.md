@@ -1,2 +1,12 @@
 # _server
-System and network administration basics on deploying a web server using Docker
+System and network administration basics on deploying a web server using Docker.  
+This server will run multiples services: Wordpress, phpMyAdmin, and a SQL database.
+
+**How to use**
+
+
+**Result**
+- [x] Web server able to run several services at the same time. The services will be a WordPress website, phpMyAdmin and MySQL
+- [x] All in one container on 127.0.0.1
+- [x] Create Dockerfile by hands
+- [x] Use wp-cli to create db and wp
