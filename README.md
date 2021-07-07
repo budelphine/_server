@@ -3,7 +3,7 @@ System and network administration basics on deploying a web server using Docker.
 This server will run multiples services: Wordpress, phpMyAdmin, and a SQL database.
 
 **How to use**
-
+cd srcs && bash docker-build.sh
 
 **Result**
 - [x] Web server able to run several services at the same time. The services will be a WP website, phpMyAdmin and MySQL
