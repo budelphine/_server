@@ -1,6 +1,8 @@
 # _server
-System and network administration basics on deploying a web server using Docker.  
-This server will run multiples services: Wordpress, phpMyAdmin, and a SQL database.
+*System and network administration basics on deploying a web server using Docker.*
+
+**Task**   
+This server will run multiples services: Wordpress, phpMyAdmin, and a SQL database in one Docker container
 
 **How to use**     
 cd srcs && bash docker-build.sh
